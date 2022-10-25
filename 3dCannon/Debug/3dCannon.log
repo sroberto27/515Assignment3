@@ -1,5 +1,0 @@
-﻿  main.cpp
-c:\users\roberto\source\repos\3dcannon\3dcannon\main.cpp(80): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\roberto\source\repos\3dcannon\3dcannon\main.cpp(158): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\roberto\source\repos\3dcannon\3dcannon\main.cpp(159): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  3dCannon.vcxproj -> C:\Users\Roberto\source\repos\3dCannon\Debug\3dCannon.exe

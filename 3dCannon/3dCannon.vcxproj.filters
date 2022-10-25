@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Arrow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Torus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrow2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Barrel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hub.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Spoke.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Screw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Rim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Stock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Trunnion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cheek.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Axle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Arrow.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vase.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Torus.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Arrow2.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Barrel.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hub.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Spoke.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Screw.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rim.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Stock.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Trunnion.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cheek.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Axle.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="brick1.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="brick2.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="innerArrow.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="metal.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="wood.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="brick3.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="brick4.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="innerArrow2.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="innerArrow3.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fragShader.glsl">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="vertShader.glsl">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
